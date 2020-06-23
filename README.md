@@ -1,2 +1,2 @@
 # nci-op
-NIC  Operations
+NCI  Operations
